@@ -100,7 +100,7 @@ export default function Hero() {
               <div className="absolute inset-0 bg-gradient-to-r from-emerald-400 to-cyan-400 dark:from-emerald-600 dark:to-cyan-600 rounded-3xl transform -rotate-6 opacity-50"></div>
               <div className="relative rounded-2xl overflow-hidden shadow-2xl w-full h-full">
                 <Image
-                  src="https://drive.google.com/u/0/drive-viewer/AKGpihbP4NMkdMg2SdkNAecVkbbYKP0gViGnNbQiazLxQpVkzwkAxmKao8AHrjbM9O2hZXTFlEhJ-bLdT9V8ZRRBl1aVkN51ckHJm3w=s2560"
+                  src="https://i.imgur.com/HXnk7xx.jpeg"
                   alt="Portrait of Guilherme Gomes"
                   fill
                   className="object-cover"
